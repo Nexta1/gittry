@@ -20,3 +20,4 @@ const f: SF = (x) => {
 }
 
 //断言
+const s = 1
