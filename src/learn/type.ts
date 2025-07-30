@@ -23,3 +23,4 @@ const f: SF = (x) => {
 const s = 1
 //1
 //2
+//3
